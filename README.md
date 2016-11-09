@@ -1,5 +1,5 @@
 
-Project {#Beepy Console}
+#Beepy Console
 ===================
 
 

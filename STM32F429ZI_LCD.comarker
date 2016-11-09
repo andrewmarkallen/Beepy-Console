@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakpoints>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/STM32F429ZI_LCD/Cube_MX_Generated/stm32f4xx_it.c" type="1"/>
+<marker lineNumber="152" type="org.eclipse.cdt.debug.core.cLineBreakpointMarker">
+<attrib name="enabled" value="true"/>
+<attrib name="org.eclipse.cdt.debug.core.condition" value=""/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.cdt.debug.core"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="org.eclipse.cdt.debug.core.installCount" value="0"/>
+<attrib name="type" value="org.eclipse.cdt.debug.core.cLineBreakpointMarker"/>
+<attrib name="persistant" value="true"/>
+<attrib name="org.eclipse.cdt.debug.core.breakpointType" value="0"/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+<attrib name="message" value="Line breakpoint: stm32f4xx_it.c [line: 152]"/>
+<attrib name="registered" value="true"/>
+<attrib name="path" value="/STM32F429ZI_LCD/Cube_MX_Generated/stm32f4xx_it.c"/>
+<attrib name="org.eclipse.cdt.debug.core.sourceHandle" value="Z:\Shared_VM\Root Level\1\2\3\4\5\6\CooCox_Projects\STM32F429ZI_LCD\Cube_MX_Generated\stm32f4xx_it.c"/>
+<attrib name="org.eclipse.cdt.debug.core.ignoreCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/STM32F429ZI_LCD/Cube_MX_Generated/stm32f4xx_it.c" type="1"/>
+<marker lineNumber="159" type="org.eclipse.cdt.debug.core.cLineBreakpointMarker">
+<attrib name="enabled" value="true"/>
+<attrib name="org.eclipse.cdt.debug.core.condition" value=""/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.cdt.debug.core"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="org.eclipse.cdt.debug.core.installCount" value="0"/>
+<attrib name="type" value="org.eclipse.cdt.debug.core.cLineBreakpointMarker"/>
+<attrib name="persistant" value="true"/>
+<attrib name="org.eclipse.cdt.debug.core.breakpointType" value="0"/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+<attrib name="message" value="Line breakpoint: stm32f4xx_it.c [line: 159]"/>
+<attrib name="registered" value="true"/>
+<attrib name="path" value="/STM32F429ZI_LCD/Cube_MX_Generated/stm32f4xx_it.c"/>
+<attrib name="org.eclipse.cdt.debug.core.sourceHandle" value="Z:\Shared_VM\Root Level\1\2\3\4\5\6\CooCox_Projects\STM32F429ZI_LCD\Cube_MX_Generated\stm32f4xx_it.c"/>
+<attrib name="org.eclipse.cdt.debug.core.ignoreCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/STM32F429ZI_LCD/Cube_MX_Generated/stm32f4xx_it.c" type="1"/>
+<marker lineNumber="145" type="org.eclipse.cdt.debug.core.cLineBreakpointMarker">
+<attrib name="enabled" value="true"/>
+<attrib name="org.eclipse.cdt.debug.core.condition" value=""/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.cdt.debug.core"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="org.eclipse.cdt.debug.core.installCount" value="0"/>
+<attrib name="type" value="org.eclipse.cdt.debug.core.cLineBreakpointMarker"/>
+<attrib name="persistant" value="true"/>
+<attrib name="org.eclipse.cdt.debug.core.breakpointType" value="0"/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+<attrib name="message" value="Line breakpoint: stm32f4xx_it.c [line: 145]"/>
+<attrib name="registered" value="true"/>
+<attrib name="path" value="/STM32F429ZI_LCD/Cube_MX_Generated/stm32f4xx_it.c"/>
+<attrib name="org.eclipse.cdt.debug.core.sourceHandle" value="Z:\Shared_VM\Root Level\1\2\3\4\5\6\CooCox_Projects\STM32F429ZI_LCD\Cube_MX_Generated\stm32f4xx_it.c"/>
+<attrib name="org.eclipse.cdt.debug.core.ignoreCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+</marker>
+</breakpoint>
+</breakpoints>
